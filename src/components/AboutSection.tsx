@@ -28,9 +28,7 @@ const AboutSection = () => {
           <p className="text-muted-foreground leading-relaxed max-w-2xl">
             I am a dedicated and detail-oriented B.Tech student with a strong interest in Artificial Intelligence, Machine Learning, and software development. With a solid foundation in programming languages like C and Python, I enjoy building logical solutions and continuously improving my problem-solving skills. I have hands-on experience with data structures, algorithms, and beginner-level machine learning concepts, along with practical exposure to web development through projects like responsive website design.
           </p>
-          <p className="text-muted-foreground leading-relaxed max-w-2xl">
-            I am particularly passionate about applying theoretical knowledge to real-world applications, as demonstrated through my ongoing projects such as a campus commute tracking system. I value structured learning and prefer understanding concepts deeply, including line-by-line analysis of code and core engineering principles.
-          </p>
+          
           <p className="text-muted-foreground leading-relaxed max-w-2xl">
             Beyond technical skills, I focus on consistency, self-improvement, and staying updated with emerging technologies. I believe in learning by doing, and I actively work towards strengthening both my technical expertise and practical implementation skills to grow as a future AI/ML engineer.
           </p>
